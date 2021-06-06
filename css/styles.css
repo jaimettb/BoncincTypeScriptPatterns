@@ -1,0 +1,28 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-container{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: lightgray;
+}
+
+.stars-background{
+    background-image: url("../images/starsbackground.jpg");
+    background-size: 100%;
+}
+
+.ball{
+    position: fixed;
+    width: 32px;
+    height: 32px;
+}
+
+.planet{
+    position: fixed;
+    width: 124px;
+    height: 124px;
+}
